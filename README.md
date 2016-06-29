@@ -5,6 +5,12 @@ Apps Information es una aplicación de prueba la cual muestra en una grilla dife
 ### Version
 1.0.0
 
+### Screenshots
+<img src="/../screenshots/screenshot_splash.png?raw=true"  height="350" >
+<img src="/../screenshots/screenshot_photovideo.png?raw=true"  height="350" >
+<img src="/../screenshots/screenshot_all.png?raw=true"  height="350" >
+
+
 ### Tech
 
 Frameworks usados:
